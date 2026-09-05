@@ -51,7 +51,9 @@ SQL was used to calculate and investigate:
 * Average order value
 
 ## Power BI Dashboard
+## Dashboard Preview
 
+![Global Electronics Retailer Dashboard](Global_Electronics_Retailer_Dashboard.png)
 The interactive dashboard contains:
 
 * Total Sales
